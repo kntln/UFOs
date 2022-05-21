@@ -19,7 +19,7 @@ For this project, a dynamic webpage was created to display the data for UFO sigh
 
 ![Filter by City](https://github.com/kntln/UFOs/blob/main/figures/filter_by_city.png)
 
-- Filter by State: Webpage visitors also have an option to filter by State as illustrated by the figure below.
+- Filter by State: Webpage visitors also have an option to filter by state as illustrated by the figure below.
 
 ![Filter by State](https://github.com/kntln/UFOs/blob/main/figures/filter_by_state.png)
 
