@@ -23,7 +23,7 @@ For this project, a dynamic webpage was created to display the data for UFO sigh
 
 ![Filter by State](https://github.com/kntln/UFOs/blob/main/figures/filter_by_state.png)
 
-- Filter by Country: Similarly, webpages visitor can filter the data by country. See the image below for example. 
+- Filter by Country: Similarly, Webpage visitor can filter the data by country. See the image below for example. 
 
 ![Filter by Country](https://github.com/kntln/UFOs/blob/main/figures/filter_by_country.png)
 
